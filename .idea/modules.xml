@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BirthMonth/BirthMonth.iml" filepath="$PROJECT_DIR$/BirthMonth/BirthMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05_Conditionals.iml" filepath="$PROJECT_DIR$/Lab05_Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartyAfilliation/PartyAfilliation.iml" filepath="$PROJECT_DIR$/PartyAfilliation/PartyAfilliation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShipCostCalculator/ShipCostCalculator.iml" filepath="$PROJECT_DIR$/ShipCostCalculator/ShipCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheaterKiosk/TheaterKiosk.iml" filepath="$PROJECT_DIR$/TheaterKiosk/TheaterKiosk.iml" />
+    </modules>
+  </component>
+</project>
